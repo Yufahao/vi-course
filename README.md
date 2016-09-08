@@ -5,4 +5,3 @@
 * [网站入口](http://o.iee.io/vi-course)
 * [课程讨论在 issues](https://github.com/su-da/vi-course/issues)
 * [其他信息请见 Wiki](https://github.com/su-da/vi-course/wiki)
-q
